@@ -1,0 +1,17 @@
+language = "nodejs"
+run = "npm start"
+entrypoint = "main.sh"
+
+[languages]
+
+[languages.bash]
+pattern = "**/{*.sh,*.bash}"
+
+[languages.bash.languageServer]
+start = "bash-language-server start"
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "bash main.sh"]
