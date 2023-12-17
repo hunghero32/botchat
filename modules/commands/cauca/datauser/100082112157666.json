@@ -1,0 +1,37 @@
+{
+  "name": "Minh Tiến",
+  "ID": "100082112157666",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Sparse Arctic  "
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 40,
+      "countdown": 180,
+      "countdownData": 1694340238312,
+      "image": "https://i.imgur.com/mptiizn.png"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1940,
+      "countdown": 15,
+      "countdownData": 1694340492243,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 58140,
+      "countdown": 5,
+      "countdownData": 1694415581833,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "16:30:06, 10/9/2023"
+}

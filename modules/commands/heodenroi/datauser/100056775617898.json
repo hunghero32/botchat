@@ -1,0 +1,18 @@
+{
+    "name": "Nguyễn Ngọc Uyên",
+    "ID": "100056775617898",
+    "shield": 3,
+    "coins": 100,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 20,
+            "tree": 20,
+            "pool": 10,
+            "pet": 10
+        }
+    },
+    "spin": 20,
+    "timeRegister": "19:22:49, 5/5/2022"
+}

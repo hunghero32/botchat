@@ -1,0 +1,85 @@
+{
+  "name": "Hoang Quan JW",
+  "ID": "100080660170084",
+  "mainROD": "Ion Powered Trident",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Deep Grand Reef"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Jelly Ray",
+      "category": "Uncommon",
+      "size": 190,
+      "sell": 760,
+      "image": "https://i.imgur.com/EF8ufGh.png"
+    },
+    {
+      "ID": 2,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 3,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 4,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 5,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 6,
+      "name": "Crabsquid",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2100,
+      "image": "https://i.imgur.com/KBzDuHM.png"
+    },
+    {
+      "ID": 7,
+      "name": "Jelly Ray",
+      "category": "Uncommon",
+      "size": 190,
+      "sell": 760,
+      "image": "https://i.imgur.com/EF8ufGh.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1910,
+      "countdown": 15,
+      "countdownData": 1686383536868,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "17:27:54, 9/6/2023"
+}

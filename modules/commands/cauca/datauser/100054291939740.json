@@ -1,0 +1,21 @@
+{
+  "name": "Hoàng Việt Anh",
+  "ID": "100054291939740",
+  "mainROD": null,
+  "GPS": {
+    "locate": null,
+    "area": null
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 20,
+      "countdown": 300,
+      "countdownData": null,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    }
+  ],
+  "timeRegister": "17:28:11, 9/6/2023"
+}

@@ -1,0 +1,97 @@
+{
+    "100006183256004": {
+        "car": [],
+        "cup": 0
+    },
+    "100072159461695": {
+        "car": [],
+        "cup": 0
+    },
+    "100084893155942": {
+        "car": [],
+        "cup": 0
+    },
+    "100057053025839": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Aprilia-RSV4",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100007784049337": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Yamaha-YZF-R1",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Kawasaki-Z1000",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Ducati-Monster-795",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Aprilia-RSV4",
+                "speed": 100
+            },
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "CBR-650R",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100060809592995": {
+        "car": [],
+        "cup": 0
+    },
+    "100083368724679": {
+        "car": [],
+        "cup": 0
+    },
+    "100088190829044": {
+        "car": [
+            {
+                "machXe": 1,
+                "locNhot": 1,
+                "bugi": 1,
+                "locGio": 1,
+                "name": "Kawasaki-Z1000",
+                "speed": 100
+            }
+        ],
+        "cup": 0
+    },
+    "100088601193233": {
+        "car": [],
+        "cup": 0
+    }
+}

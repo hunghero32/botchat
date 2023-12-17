@@ -1,0 +1,20 @@
+{
+    "name": "Hưng Việt Nguyễn",
+    "ID": "100014233271071",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "07:40:26, 16/10/2023"
+}
